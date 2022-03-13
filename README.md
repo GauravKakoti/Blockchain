@@ -1,6 +1,6 @@
 # Glitter ✨
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54982599/158023613-73cae52a-94dc-4509-adc5-992fe2cdf608.png" width="500">
+<img src="https://user-images.githubusercontent.com/54982599/158023613-73cae52a-94dc-4509-adc5-992fe2cdf608.png" width="40%">
 </p>
 <table>
   <tr>
